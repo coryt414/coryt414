@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=coryt414&style=flat-square&color=blue" alt=""/>
+
 <!--
-**coryt414/coryt414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
