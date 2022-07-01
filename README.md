@@ -6,7 +6,6 @@
 
 ### 👨‍💻 About Me:
 I am a Building Automation Engineer that loves programming!
-:
 
 - 🔭 I’m currently working on a grocery list app that creates grocery lists based on selected recipes
 - 🌱 I’m currently learning Django development
